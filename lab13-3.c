@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define SWAP(t, x, y) {t tmp = x; x = y; y = tmp;} //swwaps two values using a temp
+#define SWAP(t, x, y) {t tmp = x; x = y; y = tmp;} //swaps two values using a temp
 
 int main()
 {
